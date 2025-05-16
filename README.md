@@ -60,7 +60,7 @@ Formulário simples que envia mensagem diretamente para o WhatsApp via link cust
 
 ## 🖼️ Prévia do Site
 
-> **/img/Portfolio.png**
+>[ **/img/Portfolio.png**](https://github.com/hermessonyurii/portfolio/blob/main/img/Portfolio.png)
 
 ---
 
