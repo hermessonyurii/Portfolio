@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/e1db4ebf-21f5-4f95-a718-e900137ecb73)
 
 # 💼 Portfólio Pessoal — Hermesson Yuri
 
@@ -55,12 +56,6 @@ Formulário simples que envia mensagem diretamente para o WhatsApp via link cust
 - **Sobre**: Biografia completa com formação, tecnologias dominadas e visão profissional
 - **Projetos**: 5 cards com imagens, descrição, tecnologias utilizadas e foco estratégico
 - **Contato**: Formulário com integração WhatsApp
-
----
-
-## 🖼️ Prévia do Site
-
->[ **/img/Portfolio.png**](https://github.com/hermessonyurii/portfolio/blob/main/img/Portfolio.png)
 
 ---
 
