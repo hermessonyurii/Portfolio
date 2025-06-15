@@ -1,3 +1,4 @@
+⚠️⚠️FIZ UMA ATUALIZAÇÃO EM MEU PORTFÓLIO, NÃO ESTÁ IGUAL ESTE PROJETO⚠️⚠️
 ![image](https://github.com/user-attachments/assets/e1db4ebf-21f5-4f95-a718-e900137ecb73)
 
 # 💼 Portfólio Pessoal — Hermesson Yuri
